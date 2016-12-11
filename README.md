@@ -28,7 +28,7 @@ Core Image can analyze the quality of an image and provide a set of filters with
 Core Image can detect human face features in still images and track them over time in video images. Knowing where faces are can help you determine where to place a vignette or apply other special filters.
 
 
->Relevant chapters: [Processing Images](), [Detecting Faces in an Image](), [Auto Enhancing Images](), [Subclassing CIFilter: Recipes for Custom Effects]()
+>Relevant chapters: [Processing Images](https://github.com/Jerrywx/About-Core-Image/blob/master/ProcessingImages.md), [Detecting Faces in an Image](), [Auto Enhancing Images](), [Subclassing CIFilter: Recipes for Custom Effects]()
 
 ###Query Core Image to Get a List of Filters and Their Attributes
 Core Image has “built-in” reference documentation for its filters. You can query the system to find out which filters are available. Then, for each filter, you can retrieve a dictionary that contains its attributes, such as its input parameters, defaults parameter values, minimum and maximum values, display name, and more.
