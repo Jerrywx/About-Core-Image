@@ -17,7 +17,7 @@ The Core Image framework provides:
 * The ability to chain multiple filters together to create custom effects
 On OS X, Core Image also provides support for creating custom filters and performing feedback-based image processing.
 
-####Core Image is Efficient and Easy to Use for Processing and Analyzing Images
+###Core Image is Efficient and Easy to Use for Processing and Analyzing Images
 
 Core Image provides more than 90 built-in filters on iOS and over 120 on OS X. You set up filters by supplying key-value pairs for a filter’s input parameters. The output of one filter can be the input of another, making it possible to chain numerous filters together to create amazing effects. If you create a compound effect that you want to use again, you can subclass CIFilter to capture the effect “recipe.”
 
@@ -30,25 +30,25 @@ Core Image can detect human face features in still images and track them over ti
 
 >Relevant chapters: [Processing Images](), [Detecting Faces in an Image](), [Auto Enhancing Images](), [Subclassing CIFilter: Recipes for Custom Effects]()
 
-####Query Core Image to Get a List of Filters and Their Attributes
+###Query Core Image to Get a List of Filters and Their Attributes
 Core Image has “built-in” reference documentation for its filters. You can query the system to find out which filters are available. Then, for each filter, you can retrieve a dictionary that contains its attributes, such as its input parameters, defaults parameter values, minimum and maximum values, display name, and more.
 
 >Relevant chapter:  [Querying the System for Filters]()
 
 
-####Core Image Can Achieve Real-Time Video Performance
+###Core Image Can Achieve Real-Time Video Performance
 
 If your app needs to process video in real-time, there are several things you can do to optimize performance.
 
 >Relevant chapter: [Getting the Best Performance]()
 
 
-####Use an Image Accumulator to Support Feedback-Based Processing in OS X
+###Use an Image Accumulator to Support Feedback-Based Processing in OS X
 The CIImageAccumulator class is designed for efficient feedback-based image processing, which you might find useful if your OS X app needs to image dynamical systems.
 
 >Relevant chapter:  [Using Feedback to Process Images]()
 
-####Create and Distribute Custom Kernels and Filters in OS X
+###Create and Distribute Custom Kernels and Filters in OS X
 If none of the built-in filters suits your needs, even when chained together, consider creating a custom filter. You’ll need to understand kernels—programs that operate at the pixel level—because they are at the heart of every filter.
 
 You can package one or more custom filter as an image unit so that other apps can load and use them.
