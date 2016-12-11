@@ -1,12 +1,11 @@
 # About-Core-Image
-About Core Image
+**About Core Image**
 
-/Users/Jerry/ITindex/gitHub/Document
 Core Image is an image processing and analysis technology designed to provide near real-time processing for still and video images. It operates on image data types from the Core Graphics, Core Video, and Image I/O frameworks, using either a GPU or CPU rendering path. Core Image hides the details of low-level graphics processing by providing an easy-to-use application programming interface (API). You don’t need to know the details of OpenGL or OpenGL ES to leverage the power of the GPU, nor do you need to know anything about Grand Central Dispatch (GCD) to get the benefit of multicore processing. Core Image handles the details for you.
 
 ######Figure I-1  Core Image in relation to the operating system
 
-![MacDown logo](file:///Users/Jerry/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.iOS.docset/Contents/Resources/Documents/documentation/GraphicsImaging/Conceptual/CoreImaging/art/architecture_2x.png)
+![MacDown logo](https://developer.apple.com/library/prerelease/content/documentation/GraphicsImaging/Conceptual/CoreImaging/art/architecture_2x.png)
 
 ##At a Glance
 
