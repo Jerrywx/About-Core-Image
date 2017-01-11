@@ -26,6 +26,9 @@
 		C42B7ED71E25CA1A008091DE /* JRBaseController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JRBaseController.swift; sourceTree = "<group>"; };
 		C42B7ED81E25CA1A008091DE /* JRTestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JRTestViewController.swift; sourceTree = "<group>"; };
 		C42B7ED91E25CA1A008091DE /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C42B7EDE1E25CECF008091DE /* jr_CoreImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = jr_CoreImage.h; sourceTree = "<group>"; };
+		C42B7EDF1E25D03C008091DE /* jr_CIColor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = jr_CIColor.h; sourceTree = "<group>"; };
+		C42B7EE01E25D722008091DE /* jr_CIFilter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = jr_CIFilter.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,9 @@
 				C42B7ED71E25CA1A008091DE /* JRBaseController.swift */,
 				C42B7ED81E25CA1A008091DE /* JRTestViewController.swift */,
 				C42B7ED91E25CA1A008091DE /* ViewController.swift */,
+				C42B7EDE1E25CECF008091DE /* jr_CoreImage.h */,
+				C42B7EDF1E25D03C008091DE /* jr_CIColor.h */,
+				C42B7EE01E25D722008091DE /* jr_CIFilter.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -118,6 +124,7 @@
 				TargetAttributes = {
 					C42B7EBE1E25C991008091DE = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = B5SJ8JYP65;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -282,6 +289,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B5SJ8JYP65;
 				INFOPLIST_FILE = CoreImage_Down/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jerry.CoreImage-Down";
@@ -294,6 +302,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = B5SJ8JYP65;
 				INFOPLIST_FILE = CoreImage_Down/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jerry.CoreImage-Down";
