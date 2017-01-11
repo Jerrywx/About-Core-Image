@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CoreImage.xcscheme</key>
+		<key>CoreImage_Down.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>C47446851E2525AD00437726</key>
+		<key>C42B7EBE1E25C991008091DE</key>
 		<dict>
 			<key>primary</key>
 			<true/>

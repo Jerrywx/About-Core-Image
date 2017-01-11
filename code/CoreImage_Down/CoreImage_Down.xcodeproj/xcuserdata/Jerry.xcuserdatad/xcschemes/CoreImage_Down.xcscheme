@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C47446851E2525AD00437726"
-               BuildableName = "CoreImage.app"
-               BlueprintName = "CoreImage"
-               ReferencedContainer = "container:CoreImage.xcodeproj">
+               BlueprintIdentifier = "C42B7EBE1E25C991008091DE"
+               BuildableName = "CoreImage_Down.app"
+               BlueprintName = "CoreImage_Down"
+               ReferencedContainer = "container:CoreImage_Down.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C47446851E2525AD00437726"
-            BuildableName = "CoreImage.app"
-            BlueprintName = "CoreImage"
-            ReferencedContainer = "container:CoreImage.xcodeproj">
+            BlueprintIdentifier = "C42B7EBE1E25C991008091DE"
+            BuildableName = "CoreImage_Down.app"
+            BlueprintName = "CoreImage_Down"
+            ReferencedContainer = "container:CoreImage_Down.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C47446851E2525AD00437726"
-            BuildableName = "CoreImage.app"
-            BlueprintName = "CoreImage"
-            ReferencedContainer = "container:CoreImage.xcodeproj">
+            BlueprintIdentifier = "C42B7EBE1E25C991008091DE"
+            BuildableName = "CoreImage_Down.app"
+            BlueprintName = "CoreImage_Down"
+            ReferencedContainer = "container:CoreImage_Down.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C47446851E2525AD00437726"
-            BuildableName = "CoreImage.app"
-            BlueprintName = "CoreImage"
-            ReferencedContainer = "container:CoreImage.xcodeproj">
+            BlueprintIdentifier = "C42B7EBE1E25C991008091DE"
+            BuildableName = "CoreImage_Down.app"
+            BlueprintName = "CoreImage_Down"
+            ReferencedContainer = "container:CoreImage_Down.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
